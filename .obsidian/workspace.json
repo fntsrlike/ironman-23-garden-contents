@@ -161,6 +161,9 @@
   },
   "active": "e37830328c8fdf49",
   "lastOpenFiles": [
+    "content/moc/index.md",
+    "content/moc",
+    "content/literatures/index.md",
     "content/index.md",
     "content/articles/message-system.md",
     "content/notes/index.md",
@@ -188,10 +191,7 @@
     "content/articles/demo.md",
     "content/about/me.md",
     "content/about/index.md",
-    "content/sandbox/wikilink.md",
     "content/literatures",
-    "content/notes",
-    "content/diff-slug.md",
-    "content/moc"
+    "content/notes"
   ]
 }
