@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9e8a3bb7fa4b185e",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c6307c3a37ffc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf73a354d6f3f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a39e91b5768acc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "813eee1db192d321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de376cf35fe38da8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31126d31e11b0791",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba3e6580fd6c22ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9e39cf91f583090a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ff38a49a2e7027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376e18d2655540f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9941acdb08f19e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "about.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b190f1d2750fee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2ae3cb849960d46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "about.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "ecf73a354d6f3f6b",
+  "lastOpenFiles": [
+    "_attachments/me.png",
+    "_attachments/me 1.png",
+    "about.md",
+    "articles/A.md",
+    "_attachments",
+    "articles/Untitled.md",
+    "articles/Untitled 1.md",
+    "articles/demo.md",
+    "articles/markdown.md",
+    "articles/hello.md",
+    "articles/index.md",
+    "_obsidian/templates/Timestamp.md",
+    "_obsidian/templates/Articles.md",
+    "hello.md",
+    "markdown.md",
+    "Untitled",
+    "articles",
+    "_obsidian/templates",
+    "_obsidian",
+    "about/me.md",
+    "about",
+    "sandbox/hello.md",
+    "sandbox"
+  ]
+}
